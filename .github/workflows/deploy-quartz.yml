@@ -35,7 +35,7 @@ jobs:
 
       # Clonar el repositorio
       - name: Clonar repositorio de ju-jitsu
-        run: git clone https://github.com/n1krov/jiu-jitsu.git /home/runner/work/quitex-wiki/content
+        run: git clone https://github.com/n1krov/ju-jitsu.git /home/runner/work/quitex-wiki/content
 
       # mover elcontenido del directorio ubuntu_server a wiki para que enlace solo el directorio wiki
       # - name: Mover contenido de ubuntu_server a wiki
